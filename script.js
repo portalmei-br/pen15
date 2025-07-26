@@ -489,7 +489,7 @@ async function handleSearch() {
         // Simular delay de busca
         setTimeout(() => {
             searchPeneiras(enderecoUsuario);
-        }, 2500);
+        }, 4000);
 
     } catch (error) {
         console.error('Erro ao buscar CEP:', error);
