@@ -2,13 +2,13 @@
 const peneirasData = [
     {
         id: 1,
-        titulo: "Peneira Sub-09 até Sub-12",
+        titulo: "Peneira Sub-16 e Sub-17",
         clube: "Santos FC",
         endereco: null, // Será preenchido com o CEP do usuário
         data: "2025-08-10",
         horario: "14:00",
-        categoria: "Sub-09 até Sub-12",
-        requisitos: "Idade entre 09-12 anos",
+        categoria: "Sub-16 até Sub-17",
+        requisitos: "Idade Entre 16-17 anos",
         contato: "(13) 3257-4000",
         distancia: 2.5,
         lat: -23.9618,
@@ -21,7 +21,7 @@ const peneirasData = [
     },
     {
         id: 2,
-        titulo: "Peneira Sub-09",
+        titulo: "Peneira Sub-08",
         clube: "São Paulo FC",
         endereco: null, // Será preenchido com o CEP do usuário
         data: "2025-08-10",
@@ -59,13 +59,13 @@ const peneirasData = [
     },
     {
         id: 4,
-        titulo: "Peneira Sub-18 até Sub-21",
+        titulo: "Peneira Sub-13 até Sub-15",
         clube: "Palmeiras",
         endereco: null, // Será preenchido com o CEP do usuário
         data: "2025-08-10",
         horario: "10:00",
-        categoria: "Sub-18 até Sub-21",
-        requisitos: "Idade entre 18-21 anos",
+        categoria: "Sub-13 até Sub-15",
+        requisitos: "Idade entre 13-15 anos",
         contato: "(11) 3873-2400",
         distancia: 12.1,
         lat: -23.5629,
