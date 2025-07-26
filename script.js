@@ -484,7 +484,7 @@ async function handleSearch() {
         console.log(`Endereço "${enderecoUsuario}" aplicado a todas as ${peneirasData.length} peneiras`);
 
         loadingAddress.textContent = `Buscando peneiras próximas a ${enderecoUsuario}`;
-        document.getElementById('loading-neighborhood').textContent = `Todas as peneiras mostrarão: ${enderecoUsuario}`;
+        document.getElementById('loading-neighborhood').textContent = ``;
 
         // Simular delay de busca
         setTimeout(() => {
